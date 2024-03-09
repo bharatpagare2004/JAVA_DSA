@@ -24,6 +24,7 @@ public class Vote {
         Scanner sc = new Scanner(System.in);
         System.out.print("enter the age:");
         int age = sc.nextInt();
+        sc.close();
 
         vote(age);
 
