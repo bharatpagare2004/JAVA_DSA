@@ -48,7 +48,7 @@ public class Selection_Sort_Pra {
             
         }
         print(arr);
-       
+       sc.close();
 
     }
     

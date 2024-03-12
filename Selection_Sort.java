@@ -42,6 +42,8 @@ public class Selection_Sort {
 
         }
         sortArray(arr);
+        sc.close();
     }
+    
     
 }
