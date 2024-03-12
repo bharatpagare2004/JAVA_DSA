@@ -1,2 +1,4 @@
-  // int a = 10;
-        // int b = 10;
+public class Bubble_Sort {
+
+
+    public static void sortedArray(int arr[] )
